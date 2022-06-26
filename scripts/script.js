@@ -30,7 +30,7 @@ allFriseLink.forEach((friseLink, index) => {
 
 //définit un margin à partir du bloc 'class date'
 document.querySelector(".scrollContainer").style.top =
-  header.offsetHeight.toString()*1.15 + "px";
+  header.offsetHeight.toString()+ "px";
 
 //On crée une écouteur d'évènement scroll
 left.addEventListener("scroll", () => {
