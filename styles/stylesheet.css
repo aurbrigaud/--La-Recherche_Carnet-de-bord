@@ -108,8 +108,8 @@ ul {
   background-color: black;
   color: white;
   padding: 1px;
-  padding-left: 5px;
-  padding-right: 5px;
+  /* padding-left: 5px;
+  padding-right: 5px; */
 
   line-height: 120%;
   /* font-weight: 700; */
@@ -473,8 +473,8 @@ a:hover {
     background-color: black;
     color: white;
     padding: 1px;
-    padding-left: 5px;
-    padding-right: 5px;
+    /* padding-left: 5px;
+    padding-right: 5px; */
   
     line-height: 120%;
     /* font-weight: 700; */
