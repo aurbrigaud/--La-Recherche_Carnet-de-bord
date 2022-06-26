@@ -185,6 +185,7 @@ a:hover {
   overflow: hidden;
   max-height: 100%;
   position: relative;
+  gap: 40px;
 }
 
 .container {
@@ -733,9 +734,6 @@ a:hover {
     /* padding: 0px 133px; */
     width: 50%;
     /* padding: 0px 10px; */
-    padding-top: 1000px;
-
-
     /* background: blue; */
   }
 
